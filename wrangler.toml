@@ -1,10 +1,10 @@
 compatibility_date = "2021-10-21"
 type = "javascript"
 name = "worker-template"
-account_id = "abcdefg01234567890"
-zone_id = "abcdefg01234567890"
+account_id = "46ab19cd500a15d82064f994954a1b6e"
+zone_id = "f7535f65ab4a03cf9336606ebe4afb80"
 workers_dev = true
-routes = ["https://example.com/item*"]
+routes = ["https://api.collabhack.com/item*", "https://api.collabhack.com/version*"]
 vars = { }
 port = 8787
 
